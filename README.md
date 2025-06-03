@@ -2,7 +2,7 @@
 
 Uma ferramenta com interface gráfica para processar e separar bancos de dados Access (.mdb), criando arquivos individuais para cada tabela que contenha dados.
 
-![Access Database Exploder](screenshots/interface.png) *(Adicione um screenshot da interface aqui)*
+![Access Database Exploder](screenshots/interface.png)
 
 ## Funcionalidades
 
